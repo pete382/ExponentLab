@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LabExponents\bin\Debug\net8.0\LabExponents.exe
+C:\Users\Administrator\source\repos\LabExponents\bin\Debug\net8.0\LabExponents.deps.json
+C:\Users\Administrator\source\repos\LabExponents\bin\Debug\net8.0\LabExponents.runtimeconfig.json
+C:\Users\Administrator\source\repos\LabExponents\bin\Debug\net8.0\LabExponents.dll
+C:\Users\Administrator\source\repos\LabExponents\bin\Debug\net8.0\LabExponents.pdb
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.dll
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\refint\LabExponents.dll
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.pdb
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\LabExponents.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LabExponents\obj\Debug\net8.0\ref\LabExponents.dll
